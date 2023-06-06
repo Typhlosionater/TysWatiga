@@ -1,0 +1,12 @@
+~Ty's WATIGA~
+
+Ty's WATIGA (why aren't these in game already) is a small content mod with the aim to add things that should be in the base game but aren't (such as spectre, shroomite, spooky wood and turtle shell weapons and accessories; homing arrows; early game accessories for summoner and ranger; new fragment weapons and emblems; infinite ammo variants and more) along with a few other things I think would be interesting. Most content in the mod is in the gap from plantera to moon lord as the progression there personally seems lacking and is intended to feel as close to fitting into vanilla as possible.
+
+Currently Includes:
+
++19 New Accessories (2 more planned for 1.4)
++8 New Weapons (1 more planned for 1.4)
++2 New Ammo Types
++An endless version of all bullets and arrows
++A Craftable Variant of Demon Altars
++3 Dedicated items

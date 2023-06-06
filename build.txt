@@ -1,0 +1,6 @@
+displayName = Ty's Watiga
+author = Typhlosionater
+version = 0.1
+homepage = https://docs.google.com/document/d/11NPWsAu5mAJSM3Bg-EjjFGK4aDsgwUdDMgRMX0PaD5s/edit?usp=sharing
+hideCode = false
+hideResources = true
